@@ -6,4 +6,4 @@ Datasets:
 
 Correlation matrix for numerical features in the house prices dataset
 
-![House prices correlation matrix](./data/house_prices/house_prices_correlation_matrix')
+![House prices correlation matrix](figures/house_prices_correlation_matrix.png)
